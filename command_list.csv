@@ -1,0 +1,114 @@
+    1  \nbrew install --cask dbeaver-community
+    2  brew install --cask dbeaver-community
+    3  man ls
+    4  ls
+    5   clear
+    6  ls
+    7  cd desctpp
+    8  cd :
+    9  q
+   10  clear
+   11  cd decstoo
+   12  clear
+   13  cd Desktop
+   14  ls
+   15  cd :
+   16  cd :
+   17  cd :
+   18  clear
+   19  cd 〜
+   20  cd t
+   21  cd test
+   22  pwd
+   23  pwd
+   24  cd ..
+   25  mkdir Lesson
+   26  ls
+   27  mkdir Lesson2
+   28  ls
+   29  touch empty.txt
+   30  ls
+   31  clear
+   32  Dekstop % ls
+   33  vin empty.txt
+   34  123qwer
+   35  vim empty.txt
+   36  dekstop % cat empty.txt
+   37  clear
+   38  git --version
+   39  Dekstop % GulieiOrchestervertrag HK 
+   40  clear
+   41  git --version
+   42  cd
+   43  cdclear
+   44  Dekstop % touch test.txt
+   45  % touch test.txt
+   46  touch empty.txt:
+   47  touch empt.txt
+   48  chmod 777 empt.txt
+   49  ls
+   50  git config --global user.name "vira-guliei" git config --global user.emal "vira.guliei@gmail.com"
+   51  git config --list
+   52  git clone https://github.com/vira-guliei/HW_10.git
+   53  cd HW_10
+   54  cd git
+   55  cd dekstop git
+   56  ls
+   57  cd HW_10
+   58  ls
+   59  history -c && rm ~/.bash_history
+   60  cd HW_10
+   61  touch text_ignore.txt
+   62  ls -l
+   63  ls -l
+   64  touch.gitignore
+   65  touch .gitignore
+   66  echo "text_ignore.txt" >> .gitignore
+   67  cat .gitignore
+   68  git status
+   69  git rm --cached text_ignore.txt
+   70  git status
+   71  git add .
+   72  git status
+   73  git commit -m "Додав файл .gitignore та оновив індексацію"
+   74  git log --oneline --graph --all
+   75  touch main_test.txt
+   76  ls -l
+   77  cat main_test.txt
+   78  git add .
+   79  git status
+   80  git commit -m "Додав порожній файл main_test.txt"
+   81  git log --oneline --graph --all
+   82  git checkout -b develop
+   83  git branch
+   84  touch develop_test.txt
+   85  ls -l
+   86  cat develop_test.txt
+   87  git add .
+   88  git status
+   89  git commit -m "Додав порожній файл develop_test.txt"
+   90  git log --oneline --graph --all
+   91  nano develop_test.txt
+   92  cat develop_test.txt
+   93  cat develop_test.txt
+   94  git diff
+   95  git status
+   96  mv develop_test.txty develop_test.txt
+   97  git add .
+   98  git commit -m "Додано зміни в develop_test.txt"
+   99  git status
+  100  git commit -m "Додав зміни в develop_test.txt"
+  101  git log --oneline --graph --all
+  102  nano develop_test.txt
+  103  Y
+  104  cat develop_test.txt
+  105  git add .
+  106  git commit -m "Додав рядок 'just a small change' до develop_test.txt"
+  107  git status
+  108  git add .
+  109  git status
+  110  git commit -m "Додав рядок 'just a small change' до develop_test.txt"
+  111  git log --oneline --graph --all
+  112  git checkout main
+  113  git merge develop
+  114  git log --oneline --graph --all
